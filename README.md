@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Nahuel-Gabes 👋
 
-<!--
-**NahuG-Remy/NahuG-Remy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soporte Técnico de IT enfocado en soluciones eficientes, mantenimiento de hardware, optimización de sistemas y en constante formación en **Ciberseguridad**.
 
-Here are some ideas to get you started:
+## 🛠️ Lo que encontrarás aquí:
+- **Bitácora Técnica:** Registro documentado de mis procedimientos de mantenimiento, solución de errores y optimización de equipos.
+- **Laboratorios de Ciberseguridad:** Reportes técnicos (Write-ups), análisis de vulnerabilidades y resolución de desafíos en entornos controlados.
+- **Proyectos de Software:** Pequeñas herramientas y scripts automatizados en Python (¡como mi calculadora!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologías y habilidades:
+- **Soporte IT:** Diagnóstico de hardware y software (Windows / Linux) y resolución de conflictos de drivers.
+- **Ciberseguridad:** Análisis de riesgos, seguridad ofensiva/defensiva y documentación de auditorías.
+- **Programación:** Desarrollo de scripts básicos y automatizaciones con Python.
+
